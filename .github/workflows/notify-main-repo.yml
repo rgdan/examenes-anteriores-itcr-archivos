@@ -1,0 +1,16 @@
+name: Notify main repo of updates
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to main repo
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.DISPATCH_TOKEN }}
+          repository: rgdan/examenes-anteriores-itcr
+          event-type: exams_archive_updated
