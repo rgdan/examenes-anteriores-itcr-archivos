@@ -2,5 +2,6 @@
   "properSpelling": "Ecuaciones diferenciales",
   "courseCode": "MA2105",
   "creditAmount": 4,
-  "isCoordinated": true
+  "isCoordinated": true,
+  "isDefunct": false
 }

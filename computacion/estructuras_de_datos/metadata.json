@@ -2,5 +2,6 @@
   "properSpelling": "Estructuras de datos",
   "courseCode": "IC2001",
   "creditAmount": 4,
-  "isCoordinated": false
+  "isCoordinated": false,
+  "isDefunct": false
 }
