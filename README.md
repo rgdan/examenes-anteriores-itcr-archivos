@@ -25,7 +25,7 @@ Antes de realizar cualquier aporte, es **indispensable** que consulte la documen
 
 ---
 
-## Repositorio Principal
+## Repositorios del Proyecto
 
-Para ver el código de la aplicación web o reportar problemas con el sitio, visite el repositorio principal:
-[examenes-anteriores-itcr](https://github.com/rgdan/examenes-anteriores-itcr)
+* **Repositorio Principal (Sitio Web):** [examenes-anteriores-itcr](https://github.com/rgdan/examenes-anteriores-itcr)
+* **Repositorio de herramienta de organización de PDFs:** [examenes-anteriores-itcr-organizador](https://github.com/rgdan/examenes-anteriores-itcr-organizador)
